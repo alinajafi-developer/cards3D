@@ -4,7 +4,7 @@
 ![Rec 0001](https://github.com/alinajafiweb/cards3D/assets/147813870/a8339bd7-7b49-4c52-8877-ac06deada1dc)
 
 
-- [Demo Project](https://alinajafiweb.github.io/cards3D/)
+- [Demo Project](https://aliafrouz.github.io/cards3D/)
 
 - Developed by Ali Afrouz
 
